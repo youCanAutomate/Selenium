@@ -17,4 +17,12 @@ public class LoginSalesForce
 	   
 	   System.out.println("Logout test for sales force");
    }
+   
+   @Test
+   public void RegisterSalesForce()
+   {
+	   
+	   System.out.println("Resgister test for sales force");
+   }
 }
+
