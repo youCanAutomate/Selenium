@@ -10,4 +10,11 @@ public class LoginSalesForce
 	   
 	   System.out.println("Login test for sales force");
    }
+   
+   @Test
+   public void loginOutSalesForce()
+   {
+	   
+	   System.out.println("Logout test for sales force");
+   }
 }
